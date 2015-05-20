@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+<<<<<<< Upstream, based on git-mas/master
+=======
+  <runtime name="Apache Tomcat v8.0"/>
+>>>>>>> eda9836 test local
+  <fixed facet="jst.web"/>
+  <fixed facet="jst.java"/>
+  <installed facet="jst.web" version="2.5"/>
+  <installed facet="jst.java" version="1.7"/>
+</faceted-project>
